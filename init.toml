@@ -82,6 +82,7 @@ filetypes = [
   "ruby",
   "sh",
 ]
+enabled_clients = ["gopls"]
 
 [[layers]]
 name = "lang#dockerfile"
